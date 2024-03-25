@@ -1,8 +1,12 @@
 # Dang-Hinh
 Web Technologies
-My name is Dang, I am studying and living in Melbourne. I am an employee at Gong Cha St Albans, which is one of Gong Cha's key branches in Australia because given its proximity to a high concentration of Asian residents. Therefore, our store consistently experiences a bustling atmosphere, with a steady stream of customers. This website was created to share and guide international students on how to apply for jobs at Gong Cha Australia.
+
+My name is Dang, I am studying and living in Melbourne. I am an employee at Gong Cha St Albans, which is one of Gong Cha's key branches in Australia because given its proximity to a high concentration of Asian residents. Therefore, our store consistently experiences a bustling atmosphere, with a steady stream of customers. This website was created to share and guide international students on how to apply for jobs at Gong Cha Australia. They can see this as one of the closest references created by someone working at Gong Cha. From there, they will follow and apply successfully.
 
 Webpage includes:
+
+-Verified information about Gong Cha hiring.
+
 -Use css to create Gong Cha colors and create a structure that satisfies the viewer.
 
 -Insert a picture of me, the author of this website.
@@ -10,6 +14,8 @@ Webpage includes:
 -Insert video to add color to the webpage and add information about Gong Cha.
 
 -Insert an image showing how to apply onilne.
+
+For this web page project, I will maintain and update information promptly to help you submit your application here most effectively.
 
 Introduction:
 
@@ -27,9 +33,12 @@ By choosing to apply directly to the desired Gong Cha location, you bypass the h
 What do Gong Cha employees need to do:
 They will provide you with recipe books, which is what you are required to memorize and execute smoothly when you start working here. It includes:
 
-Kitchen section: cooking tea, cooking topping
-Ordering: taking customer order and scooping topping
-Blending: blending some unnormal milk tea
-Shaking: mixing tea or milk tea with ice and syrup
+-Kitchen section: cooking tea, cooking topping.
+
+-Ordering: taking customer order and scooping topping.
+
+-Blending: blending some unnormal milk tea.
+
+-Shaking: mixing tea or milk tea with ice and syrup.
 
 Wishing you a successful application!
