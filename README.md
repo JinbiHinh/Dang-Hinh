@@ -5,9 +5,13 @@ Introduction
 
 Webpage includes:
 -Use css to create Gong Cha colors and create a structure that satisfies the viewer.
+
 -Insert a picture of me, the author of this website.
+
 -Insert video to add color to the webpage and add information about Gong Cha.
+
 -Insert an image showing how to apply onilne.
+
 
 Gong Cha is one of the famous milk tea brands in the world, it was founded in 2006 and comes from Taiwan. It is famous for its milk teas and fruit teas that combine extremely diverse toppings.
 
