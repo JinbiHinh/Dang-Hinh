@@ -2,13 +2,19 @@
 Web Technologies
 My name is Dang, I am studying and living in Melbourne. I am an employee at Gong Cha St Albans, which is one of Gong Cha's key branches in Australia because given its proximity to a high concentration of Asian residents. Therefore, our store consistently experiences a bustling atmosphere, with a steady stream of customers. This website was created to share and guide international students on how to apply for jobs at Gong Cha Australia.
 Introduction
+
+Webpage includes:
+-Use css to create Gong Cha colors and create a structure that satisfies the viewer.
+-Insert a picture of me, the author of this website.
+-Insert video to add color to the webpage and add information about Gong Cha.
+-Insert an image showing how to apply onilne.
+
 Gong Cha is one of the famous milk tea brands in the world, it was founded in 2006 and comes from Taiwan. It is famous for its milk teas and fruit teas that combine extremely diverse toppings.
 
 How to apply for a job
 The first thing you need to do is create a complete resume. To work in one of the Gong Cha systems in Australia, you have two ways to apply:
 
 1. Apply online
-
 This approach offers the benefit of submitting your application directly through Gong Cha's human resources portal. Upon review, they will arrange for observations and potentially schedule an interview at one of their branches facing staffing shortages. However, a drawback could be the distance of the branch from your residence.
 
 2. Apply at the place you want to work
